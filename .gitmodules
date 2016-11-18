@@ -4,3 +4,6 @@
 [submodule "rbprovider"]
 	path = rbprovider
 	url = https://github.com/tmcmanameyunl/rbprovider
+[submodule "RBbom"]
+	path = RBbom
+	url = https://github.com/tmcmanameyunl/RBbom
