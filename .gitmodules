@@ -7,3 +7,6 @@
 [submodule "RBbom"]
 	path = RBbom
 	url = https://github.com/tmcmanameyunl/RBbom
+[submodule "deadMansRun"]
+	path = deadMansRun
+	url = https://github.com/tmcmanameyunl/deadMansRun
