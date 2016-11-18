@@ -1,3 +1,6 @@
 [submodule "router"]
 	path = router
 	url = https://github.com/tmcmanameyunl/router
+[submodule "rbprovider"]
+	path = rbprovider
+	url = https://github.com/tmcmanameyunl/rbprovider
